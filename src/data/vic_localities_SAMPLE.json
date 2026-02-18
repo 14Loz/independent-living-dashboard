@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Melbourne" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[144.948, -37.823],[144.998, -37.823],[144.998, -37.795],[144.948, -37.795],[144.948, -37.823]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Richmond" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[144.985, -37.832],[145.015, -37.832],[145.015, -37.807],[144.985, -37.807],[144.985, -37.832]]]
+      }
+    }
+  ]
+}

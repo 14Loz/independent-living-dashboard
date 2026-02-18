@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Flinders Street" },
+      "geometry": { "type": "Point", "coordinates": [144.9671, -37.8183] }
+    }
+  ]
+}

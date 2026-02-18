@@ -1,0 +1,3153 @@
+{
+  "_latestYear": "2023",
+  "medians": {
+    "ABBOTSFORD": {
+      "house": 1250000,
+      "unit": null
+    },
+    "ABERFELDIE": {
+      "house": 1631000,
+      "unit": null
+    },
+    "AINTREE": {
+      "house": 748000,
+      "unit": null
+    },
+    "AIREYS INLET": {
+      "house": 1675000,
+      "unit": null
+    },
+    "AIRPORT WEST": {
+      "house": 945000,
+      "unit": null
+    },
+    "ALBANVALE": {
+      "house": 595000,
+      "unit": null
+    },
+    "ALBERT PARK": {
+      "house": 2202500,
+      "unit": null
+    },
+    "ALBION": {
+      "house": 765000,
+      "unit": null
+    },
+    "ALEXANDRA": {
+      "house": 477500,
+      "unit": null
+    },
+    "ALFREDTON": {
+      "house": 640000,
+      "unit": null
+    },
+    "ALLANSFORD": {
+      "house": 600000,
+      "unit": null
+    },
+    "ALPHINGTON": {
+      "house": 2076000,
+      "unit": null
+    },
+    "ALTONA": {
+      "house": 1135000,
+      "unit": null
+    },
+    "ALTONA EAST": {
+      "house": 1025000,
+      "unit": null
+    },
+    "ALTONA MEADOWS": {
+      "house": 690000,
+      "unit": null
+    },
+    "ALTONA NORTH": {
+      "house": 880500,
+      "unit": null
+    },
+    "ANGLESEA": {
+      "house": 1550000,
+      "unit": null
+    },
+    "APOLLO BAY": {
+      "house": 1080000,
+      "unit": null
+    },
+    "ARARAT": {
+      "house": 375000,
+      "unit": null
+    },
+    "ARDEER": {
+      "house": 628500,
+      "unit": null
+    },
+    "ARMADALE": {
+      "house": 2585000,
+      "unit": null
+    },
+    "ARMSTRONG CREEK": {
+      "house": 675000,
+      "unit": null
+    },
+    "ASCOT (GREATER BENDIGO)": {
+      "house": 609500,
+      "unit": null
+    },
+    "ASCOT VALE": {
+      "house": 1300500,
+      "unit": null
+    },
+    "ASHBURTON": {
+      "house": 1992500,
+      "unit": null
+    },
+    "ASHWOOD": {
+      "house": 1455000,
+      "unit": null
+    },
+    "ASPENDALE": {
+      "house": 1332500,
+      "unit": null
+    },
+    "ASPENDALE GARDENS": {
+      "house": 1117000,
+      "unit": null
+    },
+    "ATTWOOD": {
+      "house": 950000,
+      "unit": null
+    },
+    "AVENEL": {
+      "house": 555000,
+      "unit": null
+    },
+    "AVOCA": {
+      "house": 350000,
+      "unit": null
+    },
+    "AVONDALE HEIGHTS": {
+      "house": 936000,
+      "unit": null
+    },
+    "AVONSLEIGH": {
+      "house": 725000,
+      "unit": null
+    },
+    "AXEDALE": {
+      "house": 515000,
+      "unit": null
+    },
+    "BACCHUS MARSH": {
+      "house": 640000,
+      "unit": null
+    },
+    "BADGER CREEK": {
+      "house": 732500,
+      "unit": null
+    },
+    "BAIRNSDALE": {
+      "house": 435000,
+      "unit": null
+    },
+    "BALACLAVA": {
+      "house": 1500000,
+      "unit": null
+    },
+    "BALCOMBE": {
+      "house": 1758500,
+      "unit": null
+    },
+    "BALLAN": {
+      "house": 607500,
+      "unit": null
+    },
+    "BALLARAT CENTRAL": {
+      "house": 607500,
+      "unit": null
+    },
+    "BALLARAT EAST": {
+      "house": 512500,
+      "unit": null
+    },
+    "BALLARAT NORTH": {
+      "house": 620000,
+      "unit": null
+    },
+    "BALNARRING": {
+      "house": 1250000,
+      "unit": null
+    },
+    "BALNARRING BEACH": {
+      "house": 2400000,
+      "unit": null
+    },
+    "BALWYN": {
+      "house": 2985000,
+      "unit": null
+    },
+    "BALWYN NORTH": {
+      "house": 2405000,
+      "unit": null
+    },
+    "BANDIANA": {
+      "house": 599000,
+      "unit": null
+    },
+    "BANNOCKBURN": {
+      "house": 710000,
+      "unit": null
+    },
+    "BARANDUDA": {
+      "house": 610000,
+      "unit": null
+    },
+    "BARWON HEADS": {
+      "house": 1823000,
+      "unit": null
+    },
+    "BAXTER": {
+      "house": 692500,
+      "unit": null
+    },
+    "BAYSWATER": {
+      "house": 871000,
+      "unit": null
+    },
+    "BAYSWATER NORTH": {
+      "house": 840500,
+      "unit": null
+    },
+    "BEACONSFIELD": {
+      "house": 915000,
+      "unit": null
+    },
+    "BEACONSFIELD UPPER": {
+      "house": 1202500,
+      "unit": null
+    },
+    "BEAUFORT": {
+      "house": 405000,
+      "unit": null
+    },
+    "BEAUMARIS": {
+      "house": 2040000,
+      "unit": null
+    },
+    "BEECHWORTH": {
+      "house": 730000,
+      "unit": null
+    },
+    "BELGRAVE": {
+      "house": 815000,
+      "unit": null
+    },
+    "BELGRAVE HEIGHTS": {
+      "house": 850000,
+      "unit": null
+    },
+    "BELGRAVE SOUTH": {
+      "house": 1125000,
+      "unit": null
+    },
+    "BELL PARK": {
+      "house": 610000,
+      "unit": null
+    },
+    "BELL POST HILL": {
+      "house": 620000,
+      "unit": null
+    },
+    "BELLFIELD (BANYULE)": {
+      "house": 944000,
+      "unit": null
+    },
+    "BENALLA": {
+      "house": 430000,
+      "unit": null
+    },
+    "BENDIGO": {
+      "house": 540000,
+      "unit": null
+    },
+    "BENTLEIGH": {
+      "house": 1690000,
+      "unit": null
+    },
+    "BENTLEIGH EAST": {
+      "house": 1430000,
+      "unit": null
+    },
+    "BERWICK": {
+      "house": 855000,
+      "unit": null
+    },
+    "BEVERIDGE": {
+      "house": 650000,
+      "unit": null
+    },
+    "BIRCHIP": {
+      "house": 225000,
+      "unit": null
+    },
+    "BIRREGURRA": {
+      "house": 850000,
+      "unit": null
+    },
+    "BITTERN": {
+      "house": 850000,
+      "unit": null
+    },
+    "BLACK HILL": {
+      "house": 626000,
+      "unit": null
+    },
+    "BLACK ROCK": {
+      "house": 2287500,
+      "unit": null
+    },
+    "BLACKBURN": {
+      "house": 1600000,
+      "unit": null
+    },
+    "BLACKBURN NORTH": {
+      "house": 1284500,
+      "unit": null
+    },
+    "BLACKBURN SOUTH": {
+      "house": 1350000,
+      "unit": null
+    },
+    "BLAIRGOWRIE": {
+      "house": 1657500,
+      "unit": null
+    },
+    "BLIND BIGHT": {
+      "house": 806000,
+      "unit": null
+    },
+    "BONBEACH": {
+      "house": 1105000,
+      "unit": null
+    },
+    "BONNIE BROOK": {
+      "house": 671500,
+      "unit": null
+    },
+    "BONNIE DOON": {
+      "house": 630000,
+      "unit": null
+    },
+    "BONSHAW": {
+      "house": 560000,
+      "unit": null
+    },
+    "BOOLARRA": {
+      "house": 450000,
+      "unit": null
+    },
+    "BOORT": {
+      "house": 270000,
+      "unit": null
+    },
+    "BORONIA": {
+      "house": 855000,
+      "unit": null
+    },
+    "BOTANIC RIDGE": {
+      "house": 872500,
+      "unit": null
+    },
+    "BOX HILL": {
+      "house": 1680000,
+      "unit": null
+    },
+    "BOX HILL NORTH": {
+      "house": 1333000,
+      "unit": null
+    },
+    "BOX HILL SOUTH": {
+      "house": 1500000,
+      "unit": null
+    },
+    "BRAYBROOK": {
+      "house": 712000,
+      "unit": null
+    },
+    "BREAKWATER": {
+      "house": 575000,
+      "unit": null
+    },
+    "BRIAGOLONG": {
+      "house": 436500,
+      "unit": null
+    },
+    "BRIAR HILL": {
+      "house": 1001000,
+      "unit": null
+    },
+    "BRIGHT": {
+      "house": 1100000,
+      "unit": null
+    },
+    "BRIGHTON": {
+      "house": 3200000,
+      "unit": null
+    },
+    "BRIGHTON EAST": {
+      "house": 2425000,
+      "unit": null
+    },
+    "BROADFORD": {
+      "house": 550000,
+      "unit": null
+    },
+    "BROADMEADOWS": {
+      "house": 560000,
+      "unit": null
+    },
+    "BROOKFIELD": {
+      "house": 560000,
+      "unit": null
+    },
+    "BROOKLYN": {
+      "house": 740000,
+      "unit": null
+    },
+    "BROWN HILL": {
+      "house": 740000,
+      "unit": null
+    },
+    "BRUNSWICK": {
+      "house": 1300000,
+      "unit": null
+    },
+    "BRUNSWICK EAST": {
+      "house": 1400000,
+      "unit": null
+    },
+    "BRUNSWICK WEST": {
+      "house": 1275000,
+      "unit": null
+    },
+    "BRUTHEN": {
+      "house": 470000,
+      "unit": null
+    },
+    "BULLEEN": {
+      "house": 1398000,
+      "unit": null
+    },
+    "BUNDALONG": {
+      "house": 968000,
+      "unit": null
+    },
+    "BUNDOORA": {
+      "house": 858500,
+      "unit": null
+    },
+    "BUNINYONG": {
+      "house": 680000,
+      "unit": null
+    },
+    "BUNYIP": {
+      "house": 730000,
+      "unit": null
+    },
+    "BURNLEY": {
+      "house": 1582500,
+      "unit": null
+    },
+    "BURNSIDE": {
+      "house": 752500,
+      "unit": null
+    },
+    "BURNSIDE HEIGHTS": {
+      "house": 745000,
+      "unit": null
+    },
+    "BURWOOD": {
+      "house": 1497500,
+      "unit": null
+    },
+    "BURWOOD EAST": {
+      "house": 1280000,
+      "unit": null
+    },
+    "CAIRNLEA": {
+      "house": 936500,
+      "unit": null
+    },
+    "CALIFORNIA GULLY": {
+      "house": 461000,
+      "unit": null
+    },
+    "CAMBERWELL": {
+      "house": 2538000,
+      "unit": null
+    },
+    "CAMPBELLFIELD": {
+      "house": 605000,
+      "unit": null
+    },
+    "CAMPBELLS CREEK": {
+      "house": 722500,
+      "unit": null
+    },
+    "CAMPERDOWN": {
+      "house": 470000,
+      "unit": null
+    },
+    "CANADIAN": {
+      "house": 535000,
+      "unit": null
+    },
+    "CANTERBURY": {
+      "house": 3252500,
+      "unit": null
+    },
+    "CAPE PATERSON": {
+      "house": 804500,
+      "unit": null
+    },
+    "CAPE SCHANCK": {
+      "house": 1524000,
+      "unit": null
+    },
+    "CAPEL SOUND": {
+      "house": 740000,
+      "unit": null
+    },
+    "CARDIGAN": {
+      "house": 1045000,
+      "unit": null
+    },
+    "CARLTON": {
+      "house": 1485000,
+      "unit": null
+    },
+    "CARLTON NORTH": {
+      "house": 1480000,
+      "unit": null
+    },
+    "CARNEGIE": {
+      "house": 1675000,
+      "unit": null
+    },
+    "CAROLINE SPRINGS": {
+      "house": 730500,
+      "unit": null
+    },
+    "CARRUM": {
+      "house": 1030000,
+      "unit": null
+    },
+    "CARRUM DOWNS": {
+      "house": 695000,
+      "unit": null
+    },
+    "CASTERTON": {
+      "house": 290000,
+      "unit": null
+    },
+    "CASTLEMAINE": {
+      "house": 725000,
+      "unit": null
+    },
+    "CAULFIELD": {
+      "house": 1786000,
+      "unit": null
+    },
+    "CAULFIELD NORTH": {
+      "house": 2620000,
+      "unit": null
+    },
+    "CAULFIELD SOUTH": {
+      "house": 1945000,
+      "unit": null
+    },
+    "CHADSTONE": {
+      "house": 1290000,
+      "unit": null
+    },
+    "CHARLEMONT": {
+      "house": 610000,
+      "unit": null
+    },
+    "CHARLTON": {
+      "house": 320000,
+      "unit": null
+    },
+    "CHELSEA": {
+      "house": 1200000,
+      "unit": null
+    },
+    "CHELSEA HEIGHTS": {
+      "house": 906500,
+      "unit": null
+    },
+    "CHELTENHAM": {
+      "house": 1342000,
+      "unit": null
+    },
+    "CHELTENHAM EAST": {
+      "house": 1150000,
+      "unit": null
+    },
+    "CHELTENHAM NORTH": {
+      "house": 1050000,
+      "unit": null
+    },
+    "CHILTERN": {
+      "house": 390000,
+      "unit": null
+    },
+    "CHIRNSIDE PARK": {
+      "house": 900000,
+      "unit": null
+    },
+    "CHURCHILL": {
+      "house": 345000,
+      "unit": null
+    },
+    "CLARINDA": {
+      "house": 950000,
+      "unit": null
+    },
+    "CLAYTON": {
+      "house": 1165000,
+      "unit": null
+    },
+    "CLAYTON NORTH": {
+      "house": 1306000,
+      "unit": null
+    },
+    "CLAYTON SOUTH": {
+      "house": 947500,
+      "unit": null
+    },
+    "CLIFTON HILL": {
+      "house": 1725000,
+      "unit": null
+    },
+    "CLIFTON SPRINGS": {
+      "house": 670000,
+      "unit": null
+    },
+    "CLUNES": {
+      "house": 510000,
+      "unit": null
+    },
+    "CLYDE": {
+      "house": 675500,
+      "unit": null
+    },
+    "CLYDE NORTH": {
+      "house": 720000,
+      "unit": null
+    },
+    "COBBLEBANK": {
+      "house": 642500,
+      "unit": null
+    },
+    "COBDEN": {
+      "house": 395000,
+      "unit": null
+    },
+    "COBRAM": {
+      "house": 437500,
+      "unit": null
+    },
+    "COBURG": {
+      "house": 1180000,
+      "unit": null
+    },
+    "COBURG EAST": {
+      "house": 1130000,
+      "unit": null
+    },
+    "COBURG NORTH": {
+      "house": 980000,
+      "unit": null
+    },
+    "COCKATOO": {
+      "house": 760000,
+      "unit": null
+    },
+    "COHUNA": {
+      "house": 325000,
+      "unit": null
+    },
+    "COLAC": {
+      "house": 480000,
+      "unit": null
+    },
+    "COLDSTREAM": {
+      "house": 805000,
+      "unit": null
+    },
+    "COLERAINE": {
+      "house": 207500,
+      "unit": null
+    },
+    "COLLINGWOOD": {
+      "house": 1225000,
+      "unit": null
+    },
+    "CONNEWARRE": {
+      "house": 1896500,
+      "unit": null
+    },
+    "COOLAROO": {
+      "house": 530500,
+      "unit": null
+    },
+    "COONANS HILL": {
+      "house": 1205000,
+      "unit": null
+    },
+    "COONGULLA": {
+      "house": 457500,
+      "unit": null
+    },
+    "CORINELLA": {
+      "house": 695000,
+      "unit": null
+    },
+    "CORIO": {
+      "house": 480000,
+      "unit": null
+    },
+    "CORONET BAY": {
+      "house": 580000,
+      "unit": null
+    },
+    "CORRYONG": {
+      "house": 320000,
+      "unit": null
+    },
+    "COWES": {
+      "house": 800000,
+      "unit": null
+    },
+    "COWES WEST": {
+      "house": 779000,
+      "unit": null
+    },
+    "CRAIGIEBURN": {
+      "house": 650000,
+      "unit": null
+    },
+    "CRANBOURNE": {
+      "house": 655000,
+      "unit": null
+    },
+    "CRANBOURNE EAST": {
+      "house": 707500,
+      "unit": null
+    },
+    "CRANBOURNE NORTH": {
+      "house": 710000,
+      "unit": null
+    },
+    "CRANBOURNE SOUTH": {
+      "house": 721000,
+      "unit": null
+    },
+    "CRANBOURNE WEST": {
+      "house": 657500,
+      "unit": null
+    },
+    "CREMORNE": {
+      "house": 1335000,
+      "unit": null
+    },
+    "CRESWICK": {
+      "house": 529000,
+      "unit": null
+    },
+    "CRIB POINT": {
+      "house": 755000,
+      "unit": null
+    },
+    "CROYDON": {
+      "house": 916000,
+      "unit": null
+    },
+    "CROYDON HILLS": {
+      "house": 1180000,
+      "unit": null
+    },
+    "CROYDON NORTH": {
+      "house": 1075000,
+      "unit": null
+    },
+    "CROYDON SOUTH": {
+      "house": 885500,
+      "unit": null
+    },
+    "CURLEWIS": {
+      "house": 667500,
+      "unit": null
+    },
+    "DALLAS": {
+      "house": 512500,
+      "unit": null
+    },
+    "DALYSTON": {
+      "house": 525000,
+      "unit": null
+    },
+    "DANDENONG": {
+      "house": 687500,
+      "unit": null
+    },
+    "DANDENONG NORTH": {
+      "house": 721000,
+      "unit": null
+    },
+    "DANYO": {
+      "house": 164000,
+      "unit": null
+    },
+    "DARLEY": {
+      "house": 695000,
+      "unit": null
+    },
+    "DAYLESFORD": {
+      "house": 899000,
+      "unit": null
+    },
+    "DEANSIDE": {
+      "house": 640000,
+      "unit": null
+    },
+    "DEEPDENE": {
+      "house": 3050000,
+      "unit": null
+    },
+    "DEER PARK": {
+      "house": 640000,
+      "unit": null
+    },
+    "DELACOMBE": {
+      "house": 527500,
+      "unit": null
+    },
+    "DELAHEY": {
+      "house": 639000,
+      "unit": null
+    },
+    "DENNINGTON": {
+      "house": 581500,
+      "unit": null
+    },
+    "DERRIMUT": {
+      "house": 739000,
+      "unit": null
+    },
+    "DIAMOND CREEK": {
+      "house": 983500,
+      "unit": null
+    },
+    "DIGGERS REST": {
+      "house": 657500,
+      "unit": null
+    },
+    "DIMBOOLA": {
+      "house": 281000,
+      "unit": null
+    },
+    "DINGLEY VILLAGE": {
+      "house": 1090000,
+      "unit": null
+    },
+    "DINNER PLAIN": {
+      "house": 1200000,
+      "unit": null
+    },
+    "DONALD": {
+      "house": 240000,
+      "unit": null
+    },
+    "DONCASTER": {
+      "house": 1550000,
+      "unit": null
+    },
+    "DONCASTER EAST": {
+      "house": 1630000,
+      "unit": null
+    },
+    "DONNYBROOK": {
+      "house": 650000,
+      "unit": null
+    },
+    "DONVALE": {
+      "house": 1438500,
+      "unit": null
+    },
+    "DOREEN": {
+      "house": 727000,
+      "unit": null
+    },
+    "DOVETON": {
+      "house": 570000,
+      "unit": null
+    },
+    "DROMANA": {
+      "house": 1052500,
+      "unit": null
+    },
+    "DROUIN": {
+      "house": 621500,
+      "unit": null
+    },
+    "DRYSDALE": {
+      "house": 726000,
+      "unit": null
+    },
+    "DUNOLLY": {
+      "house": 335000,
+      "unit": null
+    },
+    "EAGLE POINT": {
+      "house": 530000,
+      "unit": null
+    },
+    "EAGLEHAWK": {
+      "house": 485000,
+      "unit": null
+    },
+    "EAGLEMONT": {
+      "house": 2528500,
+      "unit": null
+    },
+    "EAST BAIRNSDALE": {
+      "house": 347500,
+      "unit": null
+    },
+    "EAST BENDIGO": {
+      "house": 551500,
+      "unit": null
+    },
+    "EAST GEELONG": {
+      "house": 835000,
+      "unit": null
+    },
+    "EAST MELBOURNE": {
+      "house": 3363000,
+      "unit": null
+    },
+    "EAST WARBURTON": {
+      "house": 667500,
+      "unit": null
+    },
+    "EASTWOOD": {
+      "house": 599000,
+      "unit": null
+    },
+    "ECHUCA": {
+      "house": 580000,
+      "unit": null
+    },
+    "EDENHOPE": {
+      "house": 266000,
+      "unit": null
+    },
+    "EDITHVALE": {
+      "house": 1280000,
+      "unit": null
+    },
+    "EILDON": {
+      "house": 450000,
+      "unit": null
+    },
+    "ELLIMINYT": {
+      "house": 750000,
+      "unit": null
+    },
+    "ELMORE": {
+      "house": 358000,
+      "unit": null
+    },
+    "ELSTERNWICK": {
+      "house": 2165000,
+      "unit": null
+    },
+    "ELTHAM": {
+      "house": 1190000,
+      "unit": null
+    },
+    "ELTHAM NORTH": {
+      "house": 1250000,
+      "unit": null
+    },
+    "ELWOOD": {
+      "house": 2200000,
+      "unit": null
+    },
+    "EMERALD": {
+      "house": 860000,
+      "unit": null
+    },
+    "ENDEAVOUR HILLS": {
+      "house": 795000,
+      "unit": null
+    },
+    "EPPING": {
+      "house": 668000,
+      "unit": null
+    },
+    "EPSOM": {
+      "house": 582500,
+      "unit": null
+    },
+    "ESSENDON": {
+      "house": 1760000,
+      "unit": null
+    },
+    "ESSENDON NORTH": {
+      "house": 1296000,
+      "unit": null
+    },
+    "ESSENDON WEST": {
+      "house": 1165000,
+      "unit": null
+    },
+    "EUMEMMERRING": {
+      "house": 665000,
+      "unit": null
+    },
+    "EUREKA": {
+      "house": 523000,
+      "unit": null
+    },
+    "EUROA": {
+      "house": 492500,
+      "unit": null
+    },
+    "EYNESBURY": {
+      "house": 652500,
+      "unit": null
+    },
+    "FAIRFIELD": {
+      "house": 1585000,
+      "unit": null
+    },
+    "FAWKNER": {
+      "house": 770000,
+      "unit": null
+    },
+    "FERNTREE GULLY": {
+      "house": 890000,
+      "unit": null
+    },
+    "FERNY CREEK": {
+      "house": 890000,
+      "unit": null
+    },
+    "FINGAL": {
+      "house": 2000000,
+      "unit": null
+    },
+    "FITZROY": {
+      "house": 1530000,
+      "unit": null
+    },
+    "FITZROY NORTH": {
+      "house": 1600000,
+      "unit": null
+    },
+    "FIVEWAYS": {
+      "house": 670000,
+      "unit": null
+    },
+    "FLEMINGTON": {
+      "house": 1027500,
+      "unit": null
+    },
+    "FLINDERS": {
+      "house": 2125000,
+      "unit": null
+    },
+    "FLORA HILL": {
+      "house": 520000,
+      "unit": null
+    },
+    "FLOWERDALE": {
+      "house": 595000,
+      "unit": null
+    },
+    "FOOTSCRAY": {
+      "house": 902000,
+      "unit": null
+    },
+    "FOREST HILL": {
+      "house": 1250500,
+      "unit": null
+    },
+    "FOSTER": {
+      "house": 590000,
+      "unit": null
+    },
+    "FRANKSTON": {
+      "house": 735000,
+      "unit": null
+    },
+    "FRANKSTON NORTH": {
+      "house": 574000,
+      "unit": null
+    },
+    "FRANKSTON SOUTH": {
+      "house": 1150000,
+      "unit": null
+    },
+    "FRASER RISE": {
+      "house": 716000,
+      "unit": null
+    },
+    "FYANSFORD": {
+      "house": 950000,
+      "unit": null
+    },
+    "GARDEN CITY": {
+      "house": 1616000,
+      "unit": null
+    },
+    "GARDENVALE": {
+      "house": 2300000,
+      "unit": null
+    },
+    "GARFIELD": {
+      "house": 820000,
+      "unit": null
+    },
+    "GEELONG": {
+      "house": 982500,
+      "unit": null
+    },
+    "GEELONG WEST": {
+      "house": 910000,
+      "unit": null
+    },
+    "GEMBROOK": {
+      "house": 852500,
+      "unit": null
+    },
+    "GISBORNE": {
+      "house": 1000000,
+      "unit": null
+    },
+    "GLADSTONE PARK": {
+      "house": 710000,
+      "unit": null
+    },
+    "GLEN HUNTLY": {
+      "house": 1735500,
+      "unit": null
+    },
+    "GLEN IRIS": {
+      "house": 2500000,
+      "unit": null
+    },
+    "GLEN WAVERLEY": {
+      "house": 1660000,
+      "unit": null
+    },
+    "GLENGARRY": {
+      "house": 590000,
+      "unit": null
+    },
+    "GLENROWAN": {
+      "house": 595000,
+      "unit": null
+    },
+    "GLENROY": {
+      "house": 795000,
+      "unit": null
+    },
+    "GOLDEN BEACH": {
+      "house": 395000,
+      "unit": null
+    },
+    "GOLDEN POINT (BALLARAT)": {
+      "house": 570000,
+      "unit": null
+    },
+    "GOLDEN SQUARE": {
+      "house": 515000,
+      "unit": null
+    },
+    "GORDON": {
+      "house": 675000,
+      "unit": null
+    },
+    "GOUGHS BAY": {
+      "house": 580000,
+      "unit": null
+    },
+    "GOWANBRAE": {
+      "house": 865000,
+      "unit": null
+    },
+    "GRANTVILLE": {
+      "house": 595000,
+      "unit": null
+    },
+    "GREEN LAKE": {
+      "house": 433000,
+      "unit": null
+    },
+    "GREENSBOROUGH": {
+      "house": 970000,
+      "unit": null
+    },
+    "GREENVALE": {
+      "house": 845000,
+      "unit": null
+    },
+    "GROVEDALE": {
+      "house": 660000,
+      "unit": null
+    },
+    "HADFIELD": {
+      "house": 860000,
+      "unit": null
+    },
+    "HALLAM": {
+      "house": 714000,
+      "unit": null
+    },
+    "HALLS GAP": {
+      "house": 555000,
+      "unit": null
+    },
+    "HAMILTON": {
+      "house": 370000,
+      "unit": null
+    },
+    "HAMLYN HEIGHTS": {
+      "house": 740000,
+      "unit": null
+    },
+    "HAMPTON": {
+      "house": 2370000,
+      "unit": null
+    },
+    "HAMPTON EAST": {
+      "house": 1475000,
+      "unit": null
+    },
+    "HAMPTON PARK": {
+      "house": 644500,
+      "unit": null
+    },
+    "HARCOURT": {
+      "house": 697500,
+      "unit": null
+    },
+    "HARKNESS": {
+      "house": 580000,
+      "unit": null
+    },
+    "HASTINGS": {
+      "house": 715000,
+      "unit": null
+    },
+    "HASTINGS WEST": {
+      "house": 605000,
+      "unit": null
+    },
+    "HAWTHORN": {
+      "house": 2720000,
+      "unit": null
+    },
+    "HAWTHORN EAST": {
+      "house": 2750000,
+      "unit": null
+    },
+    "HEALESVILLE": {
+      "house": 810000,
+      "unit": null
+    },
+    "HEATHCOTE": {
+      "house": 485000,
+      "unit": null
+    },
+    "HEATHCOTE JUNCTION": {
+      "house": 815000,
+      "unit": null
+    },
+    "HEATHERTON": {
+      "house": 1150000,
+      "unit": null
+    },
+    "HEATHMONT": {
+      "house": 1068000,
+      "unit": null
+    },
+    "HEIDELBERG": {
+      "house": 1437500,
+      "unit": null
+    },
+    "HEIDELBERG HEIGHTS": {
+      "house": 1002000,
+      "unit": null
+    },
+    "HEIDELBERG WEST": {
+      "house": 750000,
+      "unit": null
+    },
+    "HEPBURN": {
+      "house": 737500,
+      "unit": null
+    },
+    "HEPBURN SPRINGS": {
+      "house": 780000,
+      "unit": null
+    },
+    "HERNE HILL": {
+      "house": 715000,
+      "unit": null
+    },
+    "HEYFIELD": {
+      "house": 390000,
+      "unit": null
+    },
+    "HEYWOOD": {
+      "house": 330000,
+      "unit": null
+    },
+    "HIGHETT": {
+      "house": 1455000,
+      "unit": null
+    },
+    "HIGHTON": {
+      "house": 911000,
+      "unit": null
+    },
+    "HILLSIDE (BRIMBANK)": {
+      "house": 548000,
+      "unit": null
+    },
+    "HILLSIDE (MELTON)": {
+      "house": 759000,
+      "unit": null
+    },
+    "HOPETOUN": {
+      "house": 171000,
+      "unit": null
+    },
+    "HOPPERS CROSSING": {
+      "house": 615000,
+      "unit": null
+    },
+    "HORSHAM": {
+      "house": 400000,
+      "unit": null
+    },
+    "HUGHESDALE": {
+      "house": 1400000,
+      "unit": null
+    },
+    "HUNTINGDALE": {
+      "house": 1195000,
+      "unit": null
+    },
+    "HUNTLY": {
+      "house": 565000,
+      "unit": null
+    },
+    "HURSTBRIDGE": {
+      "house": 896500,
+      "unit": null
+    },
+    "INDENTED HEAD": {
+      "house": 820000,
+      "unit": null
+    },
+    "INGLEWOOD": {
+      "house": 325000,
+      "unit": null
+    },
+    "INVERLOCH": {
+      "house": 950000,
+      "unit": null
+    },
+    "INVERMAY PARK": {
+      "house": 695000,
+      "unit": null
+    },
+    "IRONBARK": {
+      "house": 530000,
+      "unit": null
+    },
+    "IRYMPLE": {
+      "house": 496500,
+      "unit": null
+    },
+    "IVANHOE": {
+      "house": 1732500,
+      "unit": null
+    },
+    "IVANHOE EAST": {
+      "house": 2406500,
+      "unit": null
+    },
+    "JACANA": {
+      "house": 586500,
+      "unit": null
+    },
+    "JACKASS FLAT": {
+      "house": 515000,
+      "unit": null
+    },
+    "JAMIESON": {
+      "house": 582500,
+      "unit": null
+    },
+    "JAN JUC": {
+      "house": 1290000,
+      "unit": null
+    },
+    "JEERALANG NORTH": {
+      "house": 366000,
+      "unit": null
+    },
+    "JEPARIT": {
+      "house": 215000,
+      "unit": null
+    },
+    "JOLIMONT": {
+      "house": 4533500,
+      "unit": null
+    },
+    "JUNCTION VILLAGE": {
+      "house": 645000,
+      "unit": null
+    },
+    "JUNORTOUN": {
+      "house": 865000,
+      "unit": null
+    },
+    "KALIMNA": {
+      "house": 462500,
+      "unit": null
+    },
+    "KALKALLO": {
+      "house": 640000,
+      "unit": null
+    },
+    "KALLISTA": {
+      "house": 832500,
+      "unit": null
+    },
+    "KALORAMA": {
+      "house": 885000,
+      "unit": null
+    },
+    "KANGAROO FLAT": {
+      "house": 500000,
+      "unit": null
+    },
+    "KANGAROO GROUND SOUTH": {
+      "house": 1100000,
+      "unit": null
+    },
+    "KANIVA": {
+      "house": 200000,
+      "unit": null
+    },
+    "KATUNGA": {
+      "house": 290000,
+      "unit": null
+    },
+    "KEALBA": {
+      "house": 670000,
+      "unit": null
+    },
+    "KEILOR": {
+      "house": 1132500,
+      "unit": null
+    },
+    "KEILOR DOWNS": {
+      "house": 770000,
+      "unit": null
+    },
+    "KEILOR EAST": {
+      "house": 980000,
+      "unit": null
+    },
+    "KEILOR LODGE": {
+      "house": 920000,
+      "unit": null
+    },
+    "KEILOR PARK": {
+      "house": 795000,
+      "unit": null
+    },
+    "KENNINGTON": {
+      "house": 610000,
+      "unit": null
+    },
+    "KENSINGTON": {
+      "house": 1040000,
+      "unit": null
+    },
+    "KERANG": {
+      "house": 280000,
+      "unit": null
+    },
+    "KEW": {
+      "house": 2905000,
+      "unit": null
+    },
+    "KEW EAST": {
+      "house": 2200000,
+      "unit": null
+    },
+    "KEW NORTH": {
+      "house": 2237500,
+      "unit": null
+    },
+    "KEYSBOROUGH": {
+      "house": 913500,
+      "unit": null
+    },
+    "KIALLA": {
+      "house": 650000,
+      "unit": null
+    },
+    "KILCUNDA": {
+      "house": 810000,
+      "unit": null
+    },
+    "KILLARA (WODONGA)": {
+      "house": 650000,
+      "unit": null
+    },
+    "KILMORE": {
+      "house": 590000,
+      "unit": null
+    },
+    "KILSYTH": {
+      "house": 810000,
+      "unit": null
+    },
+    "KILSYTH SOUTH": {
+      "house": 1045000,
+      "unit": null
+    },
+    "KINGLAKE": {
+      "house": 662500,
+      "unit": null
+    },
+    "KINGS PARK": {
+      "house": 600000,
+      "unit": null
+    },
+    "KINGSBURY": {
+      "house": 785000,
+      "unit": null
+    },
+    "KINGSVILLE": {
+      "house": 1200000,
+      "unit": null
+    },
+    "KNOXFIELD": {
+      "house": 950000,
+      "unit": null
+    },
+    "KOO WEE RUP": {
+      "house": 668500,
+      "unit": null
+    },
+    "KOONDROOK": {
+      "house": 320000,
+      "unit": null
+    },
+    "KOROIT": {
+      "house": 582500,
+      "unit": null
+    },
+    "KORUMBURRA": {
+      "house": 550000,
+      "unit": null
+    },
+    "KURUNJANG": {
+      "house": 520000,
+      "unit": null
+    },
+    "KYABRAM": {
+      "house": 455000,
+      "unit": null
+    },
+    "KYNETON": {
+      "house": 775000,
+      "unit": null
+    },
+    "LAKE BOGA": {
+      "house": 446000,
+      "unit": null
+    },
+    "LAKE BUNGA": {
+      "house": 525000,
+      "unit": null
+    },
+    "LAKE GARDENS": {
+      "house": 785000,
+      "unit": null
+    },
+    "LAKE TYERS BEACH": {
+      "house": 590000,
+      "unit": null
+    },
+    "LAKE WENDOUREE": {
+      "house": 1300000,
+      "unit": null
+    },
+    "LAKES ENTRANCE": {
+      "house": 512500,
+      "unit": null
+    },
+    "LALOR": {
+      "house": 680000,
+      "unit": null
+    },
+    "LANCEFIELD": {
+      "house": 625000,
+      "unit": null
+    },
+    "LANG LANG": {
+      "house": 707500,
+      "unit": null
+    },
+    "LANGWARRIN": {
+      "house": 835000,
+      "unit": null
+    },
+    "LARA": {
+      "house": 682500,
+      "unit": null
+    },
+    "LARA LAKE": {
+      "house": 710000,
+      "unit": null
+    },
+    "LAUNCHING PLACE": {
+      "house": 650000,
+      "unit": null
+    },
+    "LAVERTON": {
+      "house": 585000,
+      "unit": null
+    },
+    "LAVERTON SOUTH": {
+      "house": 735000,
+      "unit": null
+    },
+    "LENEVA": {
+      "house": 685000,
+      "unit": null
+    },
+    "LEONGATHA": {
+      "house": 580000,
+      "unit": null
+    },
+    "LEOPOLD": {
+      "house": 680000,
+      "unit": null
+    },
+    "LILYDALE": {
+      "house": 926000,
+      "unit": null
+    },
+    "LINDENOW": {
+      "house": 372500,
+      "unit": null
+    },
+    "LISMORE": {
+      "house": 255000,
+      "unit": null
+    },
+    "LOCH SPORT": {
+      "house": 390000,
+      "unit": null
+    },
+    "LONG GULLY": {
+      "house": 400000,
+      "unit": null
+    },
+    "LONGWARRY": {
+      "house": 570000,
+      "unit": null
+    },
+    "LORNE": {
+      "house": 1925000,
+      "unit": null
+    },
+    "LOVELY BANKS": {
+      "house": 690000,
+      "unit": null
+    },
+    "LOWER PLENTY": {
+      "house": 1319000,
+      "unit": null
+    },
+    "LUCAS": {
+      "house": 640000,
+      "unit": null
+    },
+    "LUCKNOW": {
+      "house": 400000,
+      "unit": null
+    },
+    "LYNBROOK": {
+      "house": 814500,
+      "unit": null
+    },
+    "LYNDHURST": {
+      "house": 905000,
+      "unit": null
+    },
+    "LYSTERFIELD": {
+      "house": 1305000,
+      "unit": null
+    },
+    "LYSTERFIELD SOUTH": {
+      "house": 1925500,
+      "unit": null
+    },
+    "MACEDON": {
+      "house": 1105000,
+      "unit": null
+    },
+    "MACLEOD": {
+      "house": 1150000,
+      "unit": null
+    },
+    "MADDINGLEY": {
+      "house": 625000,
+      "unit": null
+    },
+    "MAFFRA": {
+      "house": 425000,
+      "unit": null
+    },
+    "MAIDEN GULLY": {
+      "house": 797500,
+      "unit": null
+    },
+    "MAIDSTONE": {
+      "house": 895000,
+      "unit": null
+    },
+    "MALDON": {
+      "house": 742500,
+      "unit": null
+    },
+    "MALLACOOTA": {
+      "house": 555000,
+      "unit": null
+    },
+    "MALMSBURY": {
+      "house": 767500,
+      "unit": null
+    },
+    "MALVERN": {
+      "house": 3000000,
+      "unit": null
+    },
+    "MALVERN EAST": {
+      "house": 2175000,
+      "unit": null
+    },
+    "MAMBOURIN": {
+      "house": 635000,
+      "unit": null
+    },
+    "MANIFOLD HEIGHTS": {
+      "house": 1050000,
+      "unit": null
+    },
+    "MANOR LAKES": {
+      "house": 645000,
+      "unit": null
+    },
+    "MANSFIELD": {
+      "house": 786000,
+      "unit": null
+    },
+    "MARIBYRNONG": {
+      "house": 1130000,
+      "unit": null
+    },
+    "MARLO": {
+      "house": 655000,
+      "unit": null
+    },
+    "MARONG": {
+      "house": 622500,
+      "unit": null
+    },
+    "MARSHALL": {
+      "house": 610000,
+      "unit": null
+    },
+    "MARYBOROUGH": {
+      "house": 399500,
+      "unit": null
+    },
+    "MARYSVILLE": {
+      "house": 692500,
+      "unit": null
+    },
+    "MCCRAE": {
+      "house": 1312500,
+      "unit": null
+    },
+    "MCKENZIE HILL": {
+      "house": 833000,
+      "unit": null
+    },
+    "MCKINNON": {
+      "house": 2000000,
+      "unit": null
+    },
+    "MEADOW HEIGHTS": {
+      "house": 561000,
+      "unit": null
+    },
+    "MELTON": {
+      "house": 470500,
+      "unit": null
+    },
+    "MELTON SOUTH": {
+      "house": 495000,
+      "unit": null
+    },
+    "MELTON WEST": {
+      "house": 550000,
+      "unit": null
+    },
+    "MENTONE": {
+      "house": 1337500,
+      "unit": null
+    },
+    "MENZIES CREEK": {
+      "house": 876500,
+      "unit": null
+    },
+    "MERBEIN": {
+      "house": 300000,
+      "unit": null
+    },
+    "MERINDA PARK": {
+      "house": 626000,
+      "unit": null
+    },
+    "MERNDA": {
+      "house": 670000,
+      "unit": null
+    },
+    "MERRIGUM": {
+      "house": 272500,
+      "unit": null
+    },
+    "METUNG": {
+      "house": 771000,
+      "unit": null
+    },
+    "MICKLEHAM": {
+      "house": 680000,
+      "unit": null
+    },
+    "MIDDLE PARK": {
+      "house": 2473000,
+      "unit": null
+    },
+    "MILDURA": {
+      "house": 436000,
+      "unit": null
+    },
+    "MILL PARK": {
+      "house": 780000,
+      "unit": null
+    },
+    "MILLGROVE": {
+      "house": 564000,
+      "unit": null
+    },
+    "MINERS REST": {
+      "house": 590000,
+      "unit": null
+    },
+    "MINYIP": {
+      "house": 164500,
+      "unit": null
+    },
+    "MIRBOO NORTH": {
+      "house": 560000,
+      "unit": null
+    },
+    "MITCHAM": {
+      "house": 1210000,
+      "unit": null
+    },
+    "MITCHELL PARK": {
+      "house": 462500,
+      "unit": null
+    },
+    "MOE": {
+      "house": 365000,
+      "unit": null
+    },
+    "MONBULK": {
+      "house": 770000,
+      "unit": null
+    },
+    "MONT ALBERT": {
+      "house": 2384000,
+      "unit": null
+    },
+    "MONT ALBERT NORTH": {
+      "house": 1715000,
+      "unit": null
+    },
+    "MONTMORENCY": {
+      "house": 1120000,
+      "unit": null
+    },
+    "MONTROSE": {
+      "house": 846000,
+      "unit": null
+    },
+    "MOONEE PONDS": {
+      "house": 1527500,
+      "unit": null
+    },
+    "MOORABBIN": {
+      "house": 1300000,
+      "unit": null
+    },
+    "MOOROOLBARK": {
+      "house": 821000,
+      "unit": null
+    },
+    "MOOROOPNA": {
+      "house": 377500,
+      "unit": null
+    },
+    "MORDIALLOC": {
+      "house": 1385000,
+      "unit": null
+    },
+    "MORNINGTON": {
+      "house": 1069500,
+      "unit": null
+    },
+    "MORTLAKE": {
+      "house": 349000,
+      "unit": null
+    },
+    "MORWELL": {
+      "house": 334500,
+      "unit": null
+    },
+    "MOUNT BEAUTY": {
+      "house": 531500,
+      "unit": null
+    },
+    "MOUNT CLEAR": {
+      "house": 525000,
+      "unit": null
+    },
+    "MOUNT COTTRELL": {
+      "house": 602000,
+      "unit": null
+    },
+    "MOUNT DANDENONG": {
+      "house": 887500,
+      "unit": null
+    },
+    "MOUNT DUNEED": {
+      "house": 720000,
+      "unit": null
+    },
+    "MOUNT ELIZA": {
+      "house": 1700000,
+      "unit": null
+    },
+    "MOUNT EVELYN": {
+      "house": 830000,
+      "unit": null
+    },
+    "MOUNT HELEN": {
+      "house": 580000,
+      "unit": null
+    },
+    "MOUNT MACEDON": {
+      "house": 1446000,
+      "unit": null
+    },
+    "MOUNT MARTHA": {
+      "house": 1820000,
+      "unit": null
+    },
+    "MOUNT PLEASANT": {
+      "house": 497500,
+      "unit": null
+    },
+    "MOUNT WAVERLEY": {
+      "house": 1600000,
+      "unit": null
+    },
+    "MULGRAVE": {
+      "house": 1040000,
+      "unit": null
+    },
+    "MURCHISON": {
+      "house": 340000,
+      "unit": null
+    },
+    "MURRUMBEENA": {
+      "house": 1641500,
+      "unit": null
+    },
+    "MURTOA": {
+      "house": 267500,
+      "unit": null
+    },
+    "MYRTLEFORD": {
+      "house": 590000,
+      "unit": null
+    },
+    "NAGAMBIE": {
+      "house": 660000,
+      "unit": null
+    },
+    "NARRE WARREN": {
+      "house": 727000,
+      "unit": null
+    },
+    "NARRE WARREN NORTH": {
+      "house": 1565000,
+      "unit": null
+    },
+    "NARRE WARREN SOUTH": {
+      "house": 820000,
+      "unit": null
+    },
+    "NATHALIA": {
+      "house": 370000,
+      "unit": null
+    },
+    "NEERIM SOUTH": {
+      "house": 665000,
+      "unit": null
+    },
+    "NERRINA": {
+      "house": 685000,
+      "unit": null
+    },
+    "NEW GISBORNE": {
+      "house": 850000,
+      "unit": null
+    },
+    "NEWBOROUGH": {
+      "house": 427000,
+      "unit": null
+    },
+    "NEWCOMB": {
+      "house": 567500,
+      "unit": null
+    },
+    "NEWINGTON": {
+      "house": 664500,
+      "unit": null
+    },
+    "NEWLANDS ARM": {
+      "house": 675000,
+      "unit": null
+    },
+    "NEWPORT": {
+      "house": 1275000,
+      "unit": null
+    },
+    "NEWSTEAD": {
+      "house": 600000,
+      "unit": null
+    },
+    "NEWTOWN (GREATER": {
+      "house": 1165000,
+      "unit": null
+    },
+    "NHILL": {
+      "house": 205000,
+      "unit": null
+    },
+    "NICHOLS POINT": {
+      "house": 590000,
+      "unit": null
+    },
+    "NIDDRIE": {
+      "house": 1189000,
+      "unit": null
+    },
+    "NOBLE PARK": {
+      "house": 732000,
+      "unit": null
+    },
+    "NOBLE PARK NORTH": {
+      "house": 737500,
+      "unit": null
+    },
+    "NORLANE": {
+      "house": 455000,
+      "unit": null
+    },
+    "NORTH BENDIGO": {
+      "house": 515000,
+      "unit": null
+    },
+    "NORTH GEELONG": {
+      "house": 646500,
+      "unit": null
+    },
+    "NORTH MELBOURNE": {
+      "house": 1220000,
+      "unit": null
+    },
+    "NORTH WONTHAGGI": {
+      "house": 625000,
+      "unit": null
+    },
+    "NORTHCOTE": {
+      "house": 1605000,
+      "unit": null
+    },
+    "NOTTING HILL": {
+      "house": 1106000,
+      "unit": null
+    },
+    "NUMURKAH": {
+      "house": 360000,
+      "unit": null
+    },
+    "NUNAWADING": {
+      "house": 1189500,
+      "unit": null
+    },
+    "NYAH WEST": {
+      "house": 248000,
+      "unit": null
+    },
+    "OAK PARK": {
+      "house": 1065000,
+      "unit": null
+    },
+    "OAKLEIGH": {
+      "house": 1336500,
+      "unit": null
+    },
+    "OAKLEIGH EAST": {
+      "house": 1150000,
+      "unit": null
+    },
+    "OAKLEIGH SOUTH": {
+      "house": 1130000,
+      "unit": null
+    },
+    "OCEAN GROVE": {
+      "house": 982500,
+      "unit": null
+    },
+    "OFFICER": {
+      "house": 725500,
+      "unit": null
+    },
+    "OFFICER SOUTH": {
+      "house": 865000,
+      "unit": null
+    },
+    "OLINDA": {
+      "house": 935000,
+      "unit": null
+    },
+    "OMEO": {
+      "house": 339000,
+      "unit": null
+    },
+    "ORBOST": {
+      "house": 340000,
+      "unit": null
+    },
+    "ORMOND": {
+      "house": 1795000,
+      "unit": null
+    },
+    "OSBORNE": {
+      "house": 1030000,
+      "unit": null
+    },
+    "OUYEN": {
+      "house": 184500,
+      "unit": null
+    },
+    "PAKENHAM": {
+      "house": 640000,
+      "unit": null
+    },
+    "PARADISE BEACH": {
+      "house": 372500,
+      "unit": null
+    },
+    "PARK ORCHARDS": {
+      "house": 1740000,
+      "unit": null
+    },
+    "PARKDALE": {
+      "house": 1352000,
+      "unit": null
+    },
+    "PARKVILLE": {
+      "house": 2477000,
+      "unit": null
+    },
+    "PASCOE VALE": {
+      "house": 1025000,
+      "unit": null
+    },
+    "PASCOE VALE SOUTH": {
+      "house": 1140000,
+      "unit": null
+    },
+    "PATTERSON GARDENS": {
+      "house": 1265000,
+      "unit": null
+    },
+    "PATTERSON LAKES": {
+      "house": 1361000,
+      "unit": null
+    },
+    "PAYNESVILLE": {
+      "house": 515000,
+      "unit": null
+    },
+    "PEARCEDALE": {
+      "house": 850000,
+      "unit": null
+    },
+    "PENSHURST": {
+      "house": 286500,
+      "unit": null
+    },
+    "PETERBOROUGH": {
+      "house": 690000,
+      "unit": null
+    },
+    "PIONEER BAY": {
+      "house": 554000,
+      "unit": null
+    },
+    "PLENTY": {
+      "house": 1760000,
+      "unit": null
+    },
+    "POINT COOK": {
+      "house": 770500,
+      "unit": null
+    },
+    "POINT LONSDALE": {
+      "house": 1351500,
+      "unit": null
+    },
+    "POREPUNKAH": {
+      "house": 940000,
+      "unit": null
+    },
+    "PORT ALBERT": {
+      "house": 562500,
+      "unit": null
+    },
+    "PORT FAIRY": {
+      "house": 950000,
+      "unit": null
+    },
+    "PORT MELBOURNE": {
+      "house": 1745000,
+      "unit": null
+    },
+    "PORTARLINGTON": {
+      "house": 925000,
+      "unit": null
+    },
+    "PORTLAND": {
+      "house": 437500,
+      "unit": null
+    },
+    "PORTLAND NORTH": {
+      "house": 750000,
+      "unit": null
+    },
+    "PORTSEA": {
+      "house": 3102500,
+      "unit": null
+    },
+    "PRAHRAN": {
+      "house": 1750000,
+      "unit": null
+    },
+    "PRESTON": {
+      "house": 1150000,
+      "unit": null
+    },
+    "PRINCES HILL": {
+      "house": 1620000,
+      "unit": null
+    },
+    "PYRAMID HILL": {
+      "house": 202500,
+      "unit": null
+    },
+    "QUAMBATOOK": {
+      "house": 125000,
+      "unit": null
+    },
+    "QUARRY HILL": {
+      "house": 596000,
+      "unit": null
+    },
+    "QUEENSCLIFF": {
+      "house": 1687500,
+      "unit": null
+    },
+    "RAINBOW": {
+      "house": 175000,
+      "unit": null
+    },
+    "RAYMOND ISLAND": {
+      "house": 540000,
+      "unit": null
+    },
+    "RED CLIFFS": {
+      "house": 335000,
+      "unit": null
+    },
+    "RED HILL": {
+      "house": 1507500,
+      "unit": null
+    },
+    "REDAN": {
+      "house": 485000,
+      "unit": null
+    },
+    "RESEARCH": {
+      "house": 1030000,
+      "unit": null
+    },
+    "RESERVOIR": {
+      "house": 870000,
+      "unit": null
+    },
+    "RHYLL": {
+      "house": 752500,
+      "unit": null
+    },
+    "RICHMOND": {
+      "house": 1377500,
+      "unit": null
+    },
+    "RIDDELLS CREEK": {
+      "house": 865000,
+      "unit": null
+    },
+    "RINGWOOD": {
+      "house": 999500,
+      "unit": null
+    },
+    "RINGWOOD EAST": {
+      "house": 1000000,
+      "unit": null
+    },
+    "RINGWOOD NORTH": {
+      "house": 1217500,
+      "unit": null
+    },
+    "RIPPLESIDE": {
+      "house": 1050000,
+      "unit": null
+    },
+    "RIPPONLEA": {
+      "house": 1457500,
+      "unit": null
+    },
+    "ROBINVALE": {
+      "house": 355000,
+      "unit": null
+    },
+    "ROCHESTER": {
+      "house": 262500,
+      "unit": null
+    },
+    "ROCKBANK": {
+      "house": 624500,
+      "unit": null
+    },
+    "ROMSEY": {
+      "house": 755000,
+      "unit": null
+    },
+    "ROSANNA": {
+      "house": 1298000,
+      "unit": null
+    },
+    "ROSEBUD": {
+      "house": 747500,
+      "unit": null
+    },
+    "ROSEBUD SOUTH": {
+      "house": 1063500,
+      "unit": null
+    },
+    "ROSEDALE": {
+      "house": 475000,
+      "unit": null
+    },
+    "ROWVILLE": {
+      "house": 1090000,
+      "unit": null
+    },
+    "ROXBURGH PARK": {
+      "house": 632500,
+      "unit": null
+    },
+    "RUSHWORTH": {
+      "house": 367000,
+      "unit": null
+    },
+    "RUTHERGLEN": {
+      "house": 479000,
+      "unit": null
+    },
+    "RYE": {
+      "house": 1098500,
+      "unit": null
+    },
+    "SAFETY BEACH": {
+      "house": 1220500,
+      "unit": null
+    },
+    "SAILORS GULLY": {
+      "house": 469000,
+      "unit": null
+    },
+    "SALE": {
+      "house": 480000,
+      "unit": null
+    },
+    "SAN REMO": {
+      "house": 952500,
+      "unit": null
+    },
+    "SANCTUARY LAKES": {
+      "house": 733500,
+      "unit": null
+    },
+    "SANDHURST": {
+      "house": 1075000,
+      "unit": null
+    },
+    "SANDRINGHAM": {
+      "house": 2100000,
+      "unit": null
+    },
+    "SANDY POINT": {
+      "house": 815000,
+      "unit": null
+    },
+    "SASSAFRAS": {
+      "house": 959000,
+      "unit": null
+    },
+    "SCORESBY": {
+      "house": 955500,
+      "unit": null
+    },
+    "SEA LAKE": {
+      "house": 187500,
+      "unit": null
+    },
+    "SEABROOK": {
+      "house": 741500,
+      "unit": null
+    },
+    "SEAFORD": {
+      "house": 830000,
+      "unit": null
+    },
+    "SEAHOLME": {
+      "house": 1525000,
+      "unit": null
+    },
+    "SEASPRAY": {
+      "house": 465000,
+      "unit": null
+    },
+    "SEBASTOPOL": {
+      "house": 455000,
+      "unit": null
+    },
+    "SEDDON": {
+      "house": 1100000,
+      "unit": null
+    },
+    "SELBY": {
+      "house": 837500,
+      "unit": null
+    },
+    "SEVILLE": {
+      "house": 870000,
+      "unit": null
+    },
+    "SEVILLE EAST": {
+      "house": 755000,
+      "unit": null
+    },
+    "SEYMOUR": {
+      "house": 467500,
+      "unit": null
+    },
+    "SHEPPARTON": {
+      "house": 445000,
+      "unit": null
+    },
+    "SHEPPARTON NORTH": {
+      "house": 610000,
+      "unit": null
+    },
+    "SHOREHAM": {
+      "house": 2100000,
+      "unit": null
+    },
+    "SILVERLEAVES": {
+      "house": 1137500,
+      "unit": null
+    },
+    "SKIPTON": {
+      "house": 336000,
+      "unit": null
+    },
+    "SKYE": {
+      "house": 760000,
+      "unit": null
+    },
+    "SMITHS BEACH": {
+      "house": 957500,
+      "unit": null
+    },
+    "SMYTHES CREEK": {
+      "house": 550000,
+      "unit": null
+    },
+    "SOLDIERS HILL": {
+      "house": 570000,
+      "unit": null
+    },
+    "SOMERS": {
+      "house": 1550000,
+      "unit": null
+    },
+    "SOMERVILLE": {
+      "house": 765000,
+      "unit": null
+    },
+    "SORRENTO": {
+      "house": 2120000,
+      "unit": null
+    },
+    "SOUTH GEELONG": {
+      "house": 882000,
+      "unit": null
+    },
+    "SOUTH KINGSVILLE": {
+      "house": 1250000,
+      "unit": null
+    },
+    "SOUTH MELBOURNE": {
+      "house": 1630000,
+      "unit": null
+    },
+    "SOUTH MORANG": {
+      "house": 725000,
+      "unit": null
+    },
+    "SOUTH YARRA": {
+      "house": 2390000,
+      "unit": null
+    },
+    "SPOTSWOOD": {
+      "house": 1130000,
+      "unit": null
+    },
+    "SPRING GULLY": {
+      "house": 700000,
+      "unit": null
+    },
+    "SPRINGVALE": {
+      "house": 870000,
+      "unit": null
+    },
+    "SPRINGVALE SOUTH": {
+      "house": 800000,
+      "unit": null
+    },
+    "ST ALBANS": {
+      "house": 640500,
+      "unit": null
+    },
+    "ST ALBANS PARK": {
+      "house": 586500,
+      "unit": null
+    },
+    "ST ANDREWS BEACH": {
+      "house": 1572500,
+      "unit": null
+    },
+    "ST ARNAUD": {
+      "house": 279500,
+      "unit": null
+    },
+    "ST HELENA": {
+      "house": 1175000,
+      "unit": null
+    },
+    "ST KILDA": {
+      "house": 1480500,
+      "unit": null
+    },
+    "ST KILDA EAST": {
+      "house": 1623000,
+      "unit": null
+    },
+    "ST KILDA WEST": {
+      "house": 2855000,
+      "unit": null
+    },
+    "ST LEONARDS": {
+      "house": 754000,
+      "unit": null
+    },
+    "STANHOPE": {
+      "house": 352500,
+      "unit": null
+    },
+    "STAWELL": {
+      "house": 319000,
+      "unit": null
+    },
+    "STRATFORD": {
+      "house": 480000,
+      "unit": null
+    },
+    "STRATHDALE": {
+      "house": 637500,
+      "unit": null
+    },
+    "STRATHFIELDSAYE": {
+      "house": 715000,
+      "unit": null
+    },
+    "STRATHMERTON": {
+      "house": 365000,
+      "unit": null
+    },
+    "STRATHMORE": {
+      "house": 1416500,
+      "unit": null
+    },
+    "STRATHMORE HEIGHTS": {
+      "house": 1056000,
+      "unit": null
+    },
+    "STRATHTULLOH": {
+      "house": 642500,
+      "unit": null
+    },
+    "STUDFIELD": {
+      "house": 1095000,
+      "unit": null
+    },
+    "SUNBURY": {
+      "house": 660000,
+      "unit": null
+    },
+    "SUNDERLAND BAY": {
+      "house": 672500,
+      "unit": null
+    },
+    "SUNNYCLIFFS": {
+      "house": 380000,
+      "unit": null
+    },
+    "SUNSET STRIP": {
+      "house": 690000,
+      "unit": null
+    },
+    "SUNSHINE": {
+      "house": 797500,
+      "unit": null
+    },
+    "SUNSHINE NORTH": {
+      "house": 721500,
+      "unit": null
+    },
+    "SUNSHINE WEST": {
+      "house": 700000,
+      "unit": null
+    },
+    "SURF BEACH": {
+      "house": 805000,
+      "unit": null
+    },
+    "SURREY HILLS": {
+      "house": 2390000,
+      "unit": null
+    },
+    "SWAN HILL": {
+      "house": 435000,
+      "unit": null
+    },
+    "SYDENHAM": {
+      "house": 741500,
+      "unit": null
+    },
+    "SYNDAL": {
+      "house": 1955000,
+      "unit": null
+    },
+    "TALLANGATTA": {
+      "house": 470000,
+      "unit": null
+    },
+    "TANGAMBALANGA": {
+      "house": 557500,
+      "unit": null
+    },
+    "TARNEIT": {
+      "house": 653500,
+      "unit": null
+    },
+    "TATURA": {
+      "house": 475000,
+      "unit": null
+    },
+    "TAWONGA SOUTH": {
+      "house": 553000,
+      "unit": null
+    },
+    "TAYLORS HILL": {
+      "house": 906500,
+      "unit": null
+    },
+    "TAYLORS LAKES": {
+      "house": 925000,
+      "unit": null
+    },
+    "TECOMA": {
+      "house": 838000,
+      "unit": null
+    },
+    "TEMPLESTOWE": {
+      "house": 1685000,
+      "unit": null
+    },
+    "TEMPLESTOWE LOWER": {
+      "house": 1410000,
+      "unit": null
+    },
+    "TERANG": {
+      "house": 382500,
+      "unit": null
+    },
+    "THE BASIN": {
+      "house": 850000,
+      "unit": null
+    },
+    "THE PATCH": {
+      "house": 830000,
+      "unit": null
+    },
+    "THOMASTOWN": {
+      "house": 691000,
+      "unit": null
+    },
+    "THOMSON (GREATER": {
+      "house": 547500,
+      "unit": null
+    },
+    "THORNBURY": {
+      "house": 1382000,
+      "unit": null
+    },
+    "THORNHILL PARK": {
+      "house": 610000,
+      "unit": null
+    },
+    "TIMBOON": {
+      "house": 476500,
+      "unit": null
+    },
+    "TONGALA": {
+      "house": 405500,
+      "unit": null
+    },
+    "TOONGABBIE": {
+      "house": 569000,
+      "unit": null
+    },
+    "TOORA": {
+      "house": 450000,
+      "unit": null
+    },
+    "TOORADIN": {
+      "house": 880000,
+      "unit": null
+    },
+    "TOORAK": {
+      "house": 5325000,
+      "unit": null
+    },
+    "TOOTGAROOK": {
+      "house": 885000,
+      "unit": null
+    },
+    "TORQUAY": {
+      "house": 1255000,
+      "unit": null
+    },
+    "TRAFALGAR": {
+      "house": 560000,
+      "unit": null
+    },
+    "TRARALGON": {
+      "house": 500000,
+      "unit": null
+    },
+    "TRARALGON EAST": {
+      "house": 785000,
+      "unit": null
+    },
+    "TRENTHAM": {
+      "house": 930000,
+      "unit": null
+    },
+    "TRUGANINA": {
+      "house": 647000,
+      "unit": null
+    },
+    "TULLAMARINE": {
+      "house": 720000,
+      "unit": null
+    },
+    "TYABB": {
+      "house": 730000,
+      "unit": null
+    },
+    "UPPER FERNTREE GULLY": {
+      "house": 852000,
+      "unit": null
+    },
+    "UPWEY": {
+      "house": 880000,
+      "unit": null
+    },
+    "VENTNOR": {
+      "house": 800000,
+      "unit": null
+    },
+    "VENUS BAY": {
+      "house": 613500,
+      "unit": null
+    },
+    "VERMONT": {
+      "house": 1235000,
+      "unit": null
+    },
+    "VERMONT SOUTH": {
+      "house": 1533000,
+      "unit": null
+    },
+    "VIEWBANK": {
+      "house": 1195000,
+      "unit": null
+    },
+    "VIOLET TOWN": {
+      "house": 499500,
+      "unit": null
+    },
+    "WAHGUNYAH": {
+      "house": 375000,
+      "unit": null
+    },
+    "WALLAN": {
+      "house": 620000,
+      "unit": null
+    },
+    "WALLAN EAST": {
+      "house": 600000,
+      "unit": null
+    },
+    "WANDANA HEIGHTS": {
+      "house": 1015000,
+      "unit": null
+    },
+    "WANDIN NORTH": {
+      "house": 773000,
+      "unit": null
+    },
+    "WANDONG": {
+      "house": 762500,
+      "unit": null
+    },
+    "WANGARATTA": {
+      "house": 525000,
+      "unit": null
+    },
+    "WANTIRNA": {
+      "house": 1150000,
+      "unit": null
+    },
+    "WANTIRNA SOUTH": {
+      "house": 1322000,
+      "unit": null
+    },
+    "WARBURTON": {
+      "house": 695000,
+      "unit": null
+    },
+    "WARRACKNABEAL": {
+      "house": 240000,
+      "unit": null
+    },
+    "WARRAGUL": {
+      "house": 646000,
+      "unit": null
+    },
+    "WARRANDYTE": {
+      "house": 1262000,
+      "unit": null
+    },
+    "WARRANWOOD": {
+      "house": 1197500,
+      "unit": null
+    },
+    "WARRNAMBOOL": {
+      "house": 605000,
+      "unit": null
+    },
+    "WATERWAYS": {
+      "house": 1690000,
+      "unit": null
+    },
+    "WATSONIA": {
+      "house": 875500,
+      "unit": null
+    },
+    "WATSONIA NORTH": {
+      "house": 930000,
+      "unit": null
+    },
+    "WATTLE GLEN": {
+      "house": 890000,
+      "unit": null
+    },
+    "WAURN PONDS": {
+      "house": 826500,
+      "unit": null
+    },
+    "WEDDERBURN": {
+      "house": 300000,
+      "unit": null
+    },
+    "WEIR VIEWS": {
+      "house": 560000,
+      "unit": null
+    },
+    "WENDOUREE": {
+      "house": 470000,
+      "unit": null
+    },
+    "WENDOUREE WEST": {
+      "house": 365000,
+      "unit": null
+    },
+    "WERRIBEE": {
+      "house": 610000,
+      "unit": null
+    },
+    "WERRIBEE SOUTH": {
+      "house": 930000,
+      "unit": null
+    },
+    "WESBURN": {
+      "house": 642500,
+      "unit": null
+    },
+    "WEST FOOTSCRAY": {
+      "house": 915000,
+      "unit": null
+    },
+    "WEST MELBOURNE": {
+      "house": 1215000,
+      "unit": null
+    },
+    "WEST WODONGA": {
+      "house": 545000,
+      "unit": null
+    },
+    "WESTALL": {
+      "house": 858000,
+      "unit": null
+    },
+    "WESTGARTH": {
+      "house": 1910000,
+      "unit": null
+    },
+    "WESTMEADOWS": {
+      "house": 727500,
+      "unit": null
+    },
+    "WHEELERS HILL": {
+      "house": 1509000,
+      "unit": null
+    },
+    "WHITE HILLS": {
+      "house": 495000,
+      "unit": null
+    },
+    "WHITTINGTON": {
+      "house": 500000,
+      "unit": null
+    },
+    "WHITTLESEA": {
+      "house": 760000,
+      "unit": null
+    },
+    "WILLIAMS LANDING": {
+      "house": 799500,
+      "unit": null
+    },
+    "WILLIAMSTOWN": {
+      "house": 1580000,
+      "unit": null
+    },
+    "WILLIAMSTOWN NORTH": {
+      "house": 1275000,
+      "unit": null
+    },
+    "WILLOW GROVE": {
+      "house": 600000,
+      "unit": null
+    },
+    "WIMBLEDON HEIGHTS": {
+      "house": 620000,
+      "unit": null
+    },
+    "WINCHELSEA": {
+      "house": 642500,
+      "unit": null
+    },
+    "WINDSOR": {
+      "house": 1460000,
+      "unit": null
+    },
+    "WINTER VALLEY": {
+      "house": 580000,
+      "unit": null
+    },
+    "WODONGA": {
+      "house": 545000,
+      "unit": null
+    },
+    "WOLLERT": {
+      "house": 705000,
+      "unit": null
+    },
+    "WONGA PARK": {
+      "house": 1265000,
+      "unit": null
+    },
+    "WONTHAGGI": {
+      "house": 555000,
+      "unit": null
+    },
+    "WOODEND": {
+      "house": 965000,
+      "unit": null
+    },
+    "WOOLAMAI WATERS": {
+      "house": 779000,
+      "unit": null
+    },
+    "WOORI YALLOCK": {
+      "house": 652000,
+      "unit": null
+    },
+    "WY YUNG": {
+      "house": 547500,
+      "unit": null
+    },
+    "WYCHEPROOF": {
+      "house": 203500,
+      "unit": null
+    },
+    "WYNDHAM VALE": {
+      "house": 580000,
+      "unit": null
+    },
+    "YACKANDANDAH": {
+      "house": 760000,
+      "unit": null
+    },
+    "YALLAMBIE": {
+      "house": 942000,
+      "unit": null
+    },
+    "YALLOURN NORTH": {
+      "house": 319500,
+      "unit": null
+    },
+    "YARRA GLEN": {
+      "house": 784500,
+      "unit": null
+    },
+    "YARRA JUNCTION": {
+      "house": 705000,
+      "unit": null
+    },
+    "YARRAGON": {
+      "house": 645000,
+      "unit": null
+    },
+    "YARRAM": {
+      "house": 395000,
+      "unit": null
+    },
+    "YARRAVILLE": {
+      "house": 1100000,
+      "unit": null
+    },
+    "YARRAWONGA": {
+      "house": 640000,
+      "unit": null
+    },
+    "YEA": {
+      "house": 550000,
+      "unit": null
+    },
+    "YINNAR": {
+      "house": 567500,
+      "unit": null
+    }
+  }
+}

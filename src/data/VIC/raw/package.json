@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script>
+    if (!(window.doNotTrack === '1' || navigator.doNotTrack === 'yes' || navigator.doNotTrack === '1' || navigator.msDoNotTrack === '1')) {
+      // provided by DRD
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+          'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KDH8TTN');
+    }
+  </script>
+  <link rel="icon" href="https://sdp-error-pages.s3-ap-southeast-2.amazonaws.com/img/favicon.ico">
+  <meta charset="UTF-8">
+  <meta name="status-code" content=403>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Access denied</title>
+  <style>
+    div {
+      margin: 14% auto 1rem;
+      text-align: center;
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+    }
+
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      border: 0;
+      pointer-events: none;
+    }
+
+    .error-img {
+      max-width: 16rem;
+    }
+
+    p.intro {
+      color: #011A3C;
+      font-family: "Vic-Bold", arial, sans-serif;
+      font-size: 20px;
+      line-height: 1.5rem;
+      margin-top: 2rem;
+      margin-bottom: 1.4rem;
+    }
+
+    p {
+      font-family: "Vic-Regular", arial, sans-serif;
+      font-size: 16px;
+    }
+
+    .button {
+      background-color: #0052c2;
+      color: #fff;
+      text-decoration: none;
+      width: auto;
+      border-radius: 0.25rem;
+      padding: 0 3rem;
+      height: 2.875rem;
+      line-height: 2.875rem;
+      border: 1px solid transparent;
+      cursor: pointer;
+      text-align: center;
+      display: inline-block;
+      font-size: 1rem;
+      margin-top: 2.5rem;
+      font-family: "Vic-Regular", arial, sans-serif;
+    }
+
+    .button:focus,
+    .button:hover {
+      background-color: #0095ec;
+    }
+
+    @media only screen and (min-width: 576px) {
+      div {
+        padding-left: 1.75rem;
+        padding-right: 1.75rem;
+      }
+    }
+
+    @media only screen and (min-width: 768px) {
+      div {
+        max-width: 37.5rem;
+        width: 60%;
+      }
+
+      .error-img {
+        max-width: 32rem;
+      }
+
+      p.intro {
+        font-size: 28px;
+        line-height: 2rem;
+        margin-top: 4rem;
+      }
+
+      p {
+        font-size: 18px;
+      }
+    }
+
+    @media only screen and (min-width: 992px) {
+      div {
+        max-width: 59rem;
+      }
+
+      .error-img {
+        max-width: 100%;
+      }
+    }
+
+    @media only screen and (min-width: 1600px) {
+      margin-top: 13.75rem;
+    }
+
+  </style>
+</head>
+
+<body>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDH8TTN" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <div>
+    <h1 class="visually-hidden">Sorry</h1>
+    <svg width="927px" height="295px" viewBox="0 0 927 295" version="1.1" xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+      <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+      <title>sorry!</title>
+      <desc>Created with Sketch.</desc>
+      <defs>
+        <path
+          d="M53.4,181.45 C57.25,193.7 69.15,198.6 83.15,198.6 C97.85,198.6 105.9,192.3 105.9,184.6 C105.9,178.65 102.05,174.1 88.75,171.65 L54.45,164.65 C21.9,158.35 3.35,141.2 3.35,113.55 C3.35,77.5 34.5,54.05 78.95,54.05 C117.8,54.05 144.75,69.45 155.6,94.3 L105.9,109.35 C102.05,100.95 92.6,93.95 78.25,93.95 C63.2,93.95 58.3,101.3 58.3,107.6 C58.3,112.5 60.4,117.4 71.6,119.85 L111.15,128.25 C144.4,135.6 159.8,155.2 159.8,181.1 C159.8,219.95 126.2,240.25 80,240.25 C43.25,240.25 11.05,228.35 0.2,200 L53.4,181.45 Z M264.000002,54.75 C316.150002,54.75 360.250002,91.85 360.250002,147.15 C360.250002,202.8 316.150002,239.9 264.000002,239.9 C210.800002,239.9 166.700002,202.8 166.700002,147.15 C166.700002,91.85 210.800002,54.75 264.000002,54.75 Z M264.000002,192.65 C285.700002,192.65 306.350002,174.8 306.350002,147.15 C306.350002,119.85 285.700002,101.65 264.000002,101.65 C241.250002,101.65 220.600002,119.85 220.600002,147.15 C220.600002,174.8 241.250002,192.65 264.000002,192.65 Z M491.550003,56.85 C496.450003,56.85 499.950003,57.2 504.150003,58.25 L501.700003,114.25 L491.550003,114.25 C452.350003,114.25 431.000003,134.55 431.000003,180.05 L431.000003,235 L375.000003,235 L375.000003,59.3 L431.000003,59.3 L431.000003,92.9 C443.600003,71.9 462.850003,56.85 491.550003,56.85 Z M633.200005,56.85 C638.100005,56.85 641.600005,57.2 645.800005,58.25 L643.350005,114.25 L633.200005,114.25 C594.000005,114.25 572.650005,134.55 572.650005,180.05 L572.650005,235 L516.650005,235 L516.650005,59.3 L572.650005,59.3 L572.650005,92.9 C585.250005,71.9 604.500005,56.85 633.200005,56.85 Z M798.750007,58.95 L858.950007,58.95 L743.450007,294.5 L682.900007,294.5 L724.900007,209.45 L652.450007,58.95 L712.650007,58.95 L755.700007,146.45 L798.750007,58.95 Z M863.100009,0.5 L925.400009,0.5 L925.400009,11.35 L921.900009,154.85 L866.600009,154.85 L863.100009,11.35 L863.100009,0.5 Z M894.950009,174.8 C913.500009,174.8 926.800009,189.15 926.800009,205.95 C926.800009,223.45 913.500009,236.75 894.950009,236.75 C876.050009,236.75 862.750009,223.45 862.750009,205.95 C862.750009,189.15 876.050009,174.8 894.950009,174.8 Z"
+          id="path-1"></path>
+        <linearGradient x1="-8.46458546%" y1="45.5812484%" x2="81.3324639%" y2="45.5812484%" id="linearGradient-3">
+          <stop stop-color="#0052C2" offset="0%"></stop>
+          <stop stop-color="#825DFF" offset="14.5834652%"></stop>
+          <stop stop-color="#EF4A81" offset="27.6879446%"></stop>
+          <stop stop-color="#E57200" offset="45.5419454%"></stop>
+          <stop stop-color="#FFC166" offset="62.5654615%"></stop>
+          <stop stop-color="#F9E062" offset="100%"></stop>
+        </linearGradient>
+      </defs>
+      <g id="&gt;-Error-404-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Basic-Page-/-XXL-/-Error-sorry" transform="translate(-350.000000, -233.000000)">
+          <g id="sorry!" transform="translate(350.000000, 233.000000)">
+            <mask id="mask-2" fill="white">
+              <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="-77" y="-5" width="1075"
+              height="318">
+            </rect>
+          </g>
+        </g>
+      </g>
+    </svg>
+    <p class="intro">Blocked by WAF</p>
+    <p>You are not allowed to access this resource.</p>
+    <p>Rule was: 10161</p>
+  </div>
+</body>
+
+</html>
